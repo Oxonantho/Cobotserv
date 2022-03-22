@@ -1,0 +1,22 @@
+.containerHeader {
+  background-color: #082239;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100vw;
+
+
+  li {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    padding: 16px 32px;
+  }
+  a {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+  }
+}
